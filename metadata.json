@@ -1,0 +1,6 @@
+{
+  "name": "Thalassa Chess – Oceanic God Creature Strategy Game",
+  "description": "Play oceanic god-themed chess with calming ambient ocean music, mythical sea creature pieces, tidal capture animations, and tactical AI opponents in a black and gold aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
